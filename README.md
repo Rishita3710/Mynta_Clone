@@ -1,1 +1,1 @@
-# Mynta_Clone
+# Myntra_Clone
