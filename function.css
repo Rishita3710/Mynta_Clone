@@ -103,3 +103,45 @@ header {
     flex-direction: column;
     align-items: center;
 }
+
+.ethnic_wear{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin: 80px 0 10px 30px;
+}
+
+.dress_image{
+    width: 240px;
+}
+
+.footer_container{
+    padding: 30px 0px 40px 0px;
+    background-color: #fafbfc;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.footer_columns{
+     display: flex;
+     flex-direction: column;
+}
+.footer_columns a{
+    color: #696b79;
+    font-size: 15px;
+    text-decoration: none;
+    padding-bottom: 5px;
+}
+.footer_columns h3{
+    color: #282c3f;
+    font-size: 14px;
+    padding-bottom: 25px;
+    text-decoration: none;
+}
+.copyright{
+    flex: 1;
+    color: #94969f;
+    margin-left: 100px;
+    padding: 15px;
+    
+}
